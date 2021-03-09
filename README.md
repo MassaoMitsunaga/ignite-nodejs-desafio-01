@@ -63,6 +63,7 @@ $ yarn dev
 The following tools were used in the construction of the project:
 
 - [Node](https://nodejs.org/)
+- [Express](https://expressjs.com/)
 
 > See the file  [package.json](https://github.com/MassaoMitsunaga/ignite-nodejs-desafio-01/blob/main/package.json)
 
